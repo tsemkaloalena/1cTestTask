@@ -1,0 +1,10 @@
+{
+  "name": "Замена букв",
+  "description": "Замена маленьких букв “а” на произвольное число от 0-9",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting", "tabs", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
