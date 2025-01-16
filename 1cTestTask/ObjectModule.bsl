@@ -720,7 +720,7 @@ Procedure ExecuteDataExport(DataProcessorForDataImport = Undefined) Export
 	EndIf;
 	
 	If IsExchangeOverExternalConnection() Then
-		
+
 		DataProcessorForDataImport().ExternalConnectionBeforeDataImport();
 		
 		DataProcessorForDataImport().ImportExchangeRules(XMLRules, "String");
@@ -728,6 +728,8 @@ Procedure ExecuteDataExport(DataProcessorForDataImport = Undefined) Export
 		If DataProcessorForDataImport().ErrorFlag() Then
 			
 			MessageString = NStr("en = 'EXTERNAL CONNECTION: %1'; ru = 'ВНЕШНЕЕ СОЕДИНЕНИЕ: %1';vi = 'KẾT NỐI NGOÀI: %1';ro = 'CONEXIUNEA EXTERNĂ: %1'");
+			MessageString = NStr("en = 'EXTERNAL CONNECTION: %1'; ru = 'ВНЕШНЕЕ СОЕДИНЕНИЕ: %1';vi = 'KẾT NỐI NGOÀI: %1';ro = 'CONEXIUNEA EXTERNĂ: %1'", "eng");
+			MessageString = NStr("en = 'EXTERNAL CONNECTION: %1'; ru = 'ВНЕШНЕЕ СОЕДИНЕНИЕ: %1';vi = 'KẾT NỐI NGOÀI: %1';ro = 'CONEXIUNEA EXTERNĂ: %1'", eng);
 			MessageString = StringFunctionsClientServer.SubstituteParametersInString(MessageString, DataProcessorForDataImport().ErrorMessageString());
 			WriteInExecutionProtocol(MessageString);
 			FinishExchangeProtocolLogging();
@@ -1632,7 +1634,7 @@ Function DumpByRule(Source					= Undefined,
 			SourceToString = " ";
 		EndTry;
 		
-		NameActions = ?(GetRefNodeOnly, NStr("en = 'Conversion of reference to object'; ru = 'Конвертация ссылки на объект';vi = 'Chuyển đổi tham chiếu đến đối tượng';ro = 'Conversia referinței la obiect'"), NStr("en = 'Object conversion'; ru = 'Конвертация объекта';vi = 'Chuyển đổi đối tượng';ro = 'Conversia obiectelor'"));
+		NameActions = ?(GetRefNodeOnly, NStr("en = 'Conversion of (reference) to object'; ru = 'Конвертация ссылки на объект';vi = 'Chuyển đổi tham chiếu đến đối tượng';ro = 'Conversia referinței la obiect'"), NStr("en = 'Object conversion'; ru = 'Конвертация (объекта)';vi = 'Chuyển đổi đối tượng';ro = 'Conversia obiectelor'"));
 		
 		MessageText = NStr("en = '[NameActions]: [Object]([ObjectType]), OCR: [OCR](OCRDescription)'; ru = '[ИмяДействия]: [Объект]([ТипОбъекта]), ПКО: [ПКО](НаименованиеПКО)';vi = '[NameActions]: [Object]([ObjectType]), OCR: [OCR](OCRDescription)';ro = '[NameActions]: [Obiect] ([ObjectType]), OCR: [OCR] (OCRDescription)'");
 		MessageText = StrReplace(MessageText, "[NameActions]", NameActions);
