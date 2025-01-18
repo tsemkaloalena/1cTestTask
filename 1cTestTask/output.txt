@@ -1,7 +1,7 @@
-1: en : Error in exchange message's format.
-1: ru : Ошибка формата сообщения обмена.
-1: vi : Lỗi định dạng thông báo trao đổi.
-1: ro : Eroare în formatul mesajului de schimb.
+730: en : EXTERNAL CONNECTION: %1
+730: ru : ВНЕШНЕЕ СОЕДИНЕНИЕ: %1
+730: vi : KẾT NỐI NGOÀI: %1
+730: ro : CONEXIUNEA EXTERNĂ: %1
 731: en : EXTERNAL CONNECTION: %1
 731: ru : ВНЕШНЕЕ СОЕДИНЕНИЕ: %1
 731: vi : KẾT NỐI NGOÀI: %1
@@ -10,599 +10,595 @@
 732: ru : ВНЕШНЕЕ СОЕДИНЕНИЕ: %1
 732: vi : KẾT NỐI NGOÀI: %1
 732: ro : CONEXIUNEA EXTERNĂ: %1
-733: en : EXTERNAL CONNECTION: %1
-733: ru : ВНЕШНЕЕ СОЕДИНЕНИЕ: %1
-733: vi : KẾT NỐI NGOÀI: %1
-733: ro : CONEXIUNEA EXTERNĂ: %1
-866: en : Errors occurred when importing data.
-866: ru : Возникли ошибки при загрузке данных.
-866: vi : Đã xuất hiện lỗi khi kết nhập dữ liệu.
-866: ro : Au apărut erori la importul datelor.
-873: en : Errors occurred when importing data.
-873: ru : Возникли ошибки при загрузке данных.
-873: vi : Đã xuất hiện lỗi khi kết nhập dữ liệu.
-873: ro : Au apărut erori la importul datelor.
-951: en : Data exchange process start for node: %1
-951: ru : Начало процесса обмена данными для узла: %1
-951: vi : Bắt đầu quá trình trao đổi dữ liệu đối với nút: %1
-951: ro : Începutul procesului de schimb de date pentru nod: %1
-964: en : %1, %2; %3 objects are processed
-964: ru : %1, %2; Обработано %3 объектов
-964: vi : %1, %2; Đã xử lý %3 đối tượng
-964: ro : %1, %2; %3 obiectele sunt procesate
-1087: en : Errors occurred when analyzing data.
-1087: ru : Возникли ошибки при анализе данных.
-1087: vi : Đã xuất hiện lỗi khi phân tích dữ liệu.
-1087: ro : Au apărut erori la analizarea datelor.
-1202: en : BeforeDataImport (Conversion)
-1202: ru : ПередЗагрузкойДанных (конвертация)
-1202: vi : BeforeDataImport (chuyển đổi)
-1202: ro : BeforeDataImport (conversie)
-1291: en : AfterDataImport (conversion)
-1291: ru : ПослеЗагрузкиДанных (конвертация)
-1291: vi : AfterDataImport (chuyển đổi)
-1291: ro : AfterDataImport (conversie)
-1484: en : Attempting to change shared data (%1) in split session.
-1484: ru : Попытка изменения неразделенных данных (%1) в разделенном сеансе.
-1484: vi : Thử thay đổi dữ liệu chưa chia tách (%1) trong phiên làm việc đã chia tách.
-1484: ro : Încercarea de a schimba datele partajate (%1) în sesiunea separată.
-1638: en : Conversion of (reference) to object
-1638: ru : Конвертация ссылки на объект
-1638: vi : Chuyển đổi tham chiếu đến đối tượng
-1638: ro : Conversia referinței la obiect
-1638: en : Object conversion
-1638: ru : Конвертация (объекта)
-1638: vi : Chuyển đổi đối tượng
-1638: ro : Conversia obiectelor
-1640: en : [NameActions]: [Object]([ObjectType]), OCR: [OCR](OCRDescription)
-1640: ru : [ИмяДействия]: [Объект]([ТипОбъекта]), ПКО: [ПКО](НаименованиеПКО)
-1640: vi : [NameActions]: [Object]([ObjectType]), OCR: [OCR](OCRDescription)
-1640: ro : [NameActions]: [Obiect] ([ObjectType]), OCR: [OCR] (OCRDescription)
-1739: en : BeforeObjectConversion (global)
-1739: ru : ПередКонвертациейОбъекта (глобальный)
-1739: vi : BeforeObjectConversion (toàn cục)
-1739: ro : BeforeObjectConversion (la nivel mondial)
-3353: en : EXTERNAL CONNECTION: %1
-3353: ru : ВНЕШНЕЕ СОЕДИНЕНИЕ: %1
-3353: vi : KẾT NỐI NGOÀI: %1
-3353: ro : CONEXIUNEA EXTERNĂ: %1
-3497: en : An error occurred when attempting to write to data protocol file: %1. Error description: %2
-3497: ru : Ошибка при попытке записи в файл протокола данных: %1. Описание ошибки: %2
-3497: vi : Lỗi khi thử ghi ra tệp giao thức dữ liệu: %1. Mô tả lỗi: %2
-3497: ro : A apărut o eroare la încercarea de scriere în fișierul protocolului de date: %1. Descrierea erorii: %2
-5831: en : Error in exchange message format.
-5831: ru : Ошибка формата сообщения обмена.
-5831: vi : Lỗi định dạng thông báo trao đổi.
-5831: ro : Eroare în formatul mesajului de schimb.
-5835: en : Error in exchange message format.
-5835: ru : Ошибка формата сообщения обмена.
-5835: vi : Lỗi định dạng thông báo trao đổi.
-5835: ro : Eroare în formatul mesajului de schimb.
-5855: en : Error in exchange message format.
-5855: ru : Ошибка формата сообщения обмена.
-5855: vi : Lỗi định dạng thông báo trao đổi.
-5855: ro : Eroare în formatul mesajului de schimb.
-5859: en : Error in exchange message format.
-5859: ru : Ошибка формата сообщения обмена.
-5859: vi : Lỗi định dạng thông báo trao đổi.
-5859: ro : Eroare în formatul mesajului de schimb.
-5865: en : Errors occurred when importing data exchange rules.
-5865: ru : При загрузке правил обмена данными возникли ошибки.
-5865: vi : Khi kết nhập quy tắc trao đổi dữ liệu đã nảy sinh lỗi.
-5865: ro : Au apărut erori la importul regulilor de schimb de date.
-5889: en : BeforeDataImport (Conversion)
-5889: ru : ПередЗагрузкойДанных (конвертация)
-5889: vi : BeforeDataImport (chuyển đổi)
-5889: ro : BeforeDataImport (conversie)
-5893: en : Cancel importing exchange message in the BeforeDataImport handler (conversion).
-5893: ru : Отказ от загрузки сообщения обмена в обработчике ПередЗагрузкойДанных (конвертация).
-5893: vi : Từ chối kết nhập thông điệp trao đổi trong hàm sự kiện BeforeDataImport (chuyển đổi).
-5893: ro : Anulați importul mesajului de schimb în handler BeforeDataImport (conversie).
-5902: en : Error in exchange message format.
-5902: ru : Ошибка формата сообщения обмена.
-5902: vi : Lỗi định dạng thông báo trao đổi.
-5902: ro : Eroare în formatul mesajului de schimb.
-5915: en : Error in exchange message's format.
-5915: ru : Ошибка формата сообщения обмена.
-5915: vi : Lỗi định dạng thông báo trao đổi.
-5915: ro : Eroare în formatul mesajului de schimb.
-5923: en : Errors occurred when importing information on data types.
-5923: ru : При загрузке информации о типах данных возникли ошибки.
-5923: vi : Khi kết nhập thông tin về kiểu dữ liệu, đã nảy sinh lỗi.
-5923: ro : Au apărut erori la importul de informații privind tipurile de date.
-5933: en : Error in exchange message format.
-5933: ru : Ошибка формата сообщения обмена.
-5933: vi : Lỗi định dạng thông báo trao đổi.
-5933: ro : Eroare în formatul mesajului de schimb.
-5943: en : Error in exchange message format.
-5943: ru : Ошибка формата сообщения обмена.
-5943: vi : Lỗi định dạng thông báo trao đổi.
-5943: ro : Eroare în formatul mesajului de schimb.
-5959: en : Error in exchange message format.
-5959: ru : Ошибка формата сообщения обмена.
-5959: vi : Lỗi định dạng thông báo trao đổi.
-5959: ro : Eroare în formatul mesajului de schimb.
-5968: en : Error in exchange message format.
-5968: ru : Ошибка формата сообщения обмена.
-5968: vi : Lỗi định dạng thông báo trao đổi.
-5968: ro : Eroare în formatul mesajului de schimb.
-5972: en : Error in exchange message format.
-5972: ru : Ошибка формата сообщения обмена.
-5972: vi : Lỗi định dạng thông báo trao đổi.
-5972: ro : Eroare în formatul mesajului de schimb.
-5979: en : Lock of data receipt cannot be set in an active transaction.
-5979: ru : Блокировка получения данных не может быть установлена в активной транзакции.
-5979: vi : Không thể khóa việc nhận dữ liệu ở giao tác hiện hoạt.
-5979: ro : Blocarea primirii datelor nu poate fi setată într-o tranzacție activă.
-6027: en : AfterDataImport (conversion)
-6027: ru : ПослеЗагрузкиДанных (конвертация)
-6027: vi : AfterDataImport (chuyển đổi)
-6027: ro : AfterDataImport (conversie)
-6034: en : Error in exchange message format.
-6034: ru : Ошибка формата сообщения обмена.
-6034: vi : Lỗi định dạng thông báo trao đổi.
-6034: ro : Eroare în formatul mesajului de schimb.
-6038: en : Error in exchange message format.
-6038: ru : Ошибка формата сообщения обмена.
-6038: vi : Lỗi định dạng thông báo trao đổi.
-6038: ro : Eroare în formatul mesajului de schimb.
-6097: en : Decline exchange message import in handler AfterParametersImport (conversion) due to: %1
-6097: ru : Отказ от загрузки сообщения обмена в обработчике ПослеЗагрузкиПараметров (конвертация) по причине: %1
-6097: vi : Từ chối kết nhập thông báo trao đổi trong hàm sự kiện AfterParametersImport (chuyển đổi) theo nguyên nhân: %1
-6097: ro : Refuză importul mesajului de schimb în handler AfterParametersImport (conversie) din cauza: %1
-6101: en : Cancel importing exchange message in the AfterImportOfParameters handler (conversion).
-6101: ru : Отказ от загрузки сообщения обмена в обработчике ПослеЗагрузкиПараметров (конвертация).
-6101: vi : Từ chối kết nhập thông báo trao đổi trong hàm sự kiện AfterImportOfParameters (chuyển đổi).
-6101: ro : Anulați importul mesajului de schimb în instrumentul handler AfterImportOfParameters (conversie).
-6300: en : Access right violation: %1
-6300: ru : Нарушение прав доступа: %1
-6300: vi : Vi phạm quyền truy cập: %1
-6300: ro : Încălcarea dreptului de acces: %1
-6321: en : Operation is not executed: %1 %2
-6321: ru : Операция не выполнена: %1 %2
-6321: vi : Đã thực hiện giao dịch: %1 %2
-6321: ro : Operația nu este executată: %1 %2
-7516: en : Sequence of search fields
-7516: ru : Последовательность полей поиска
-7516: vi : Chuỗi nối tiếp các trường tìm kiếm
-7516: ro : Secvența câmpurilor de căutare
-7815: en : Tabular section name: %1
-7815: ru : Имя табличной части: %1
-7815: vi : Tên phần bảng: %1
-7815: ro : Nume secțiune de tabel:  %1
-8332: en : Import object No. %1
-8332: ru : Загрузка объекта № %1
-8332: vi : Kết nhập đối tượng số %1
-8332: ro : Import obiecte Nr. %1
-8621: en : BeforeObjectImport (global)
-8621: ru : ПередЗагрузкойОбъекта (глобальный)
-8621: vi : BeforeObjectImport (toàn cục)
-8621: ro : BeforeObjectImport (global)
-9036: en : BeforeObjectImport (global)
-9036: ru : ПередЗагрузкойОбъекта (глобальный)
-9036: vi : BeforeObjectImport (toàn cục)
-9036: ro : BeforeObjectImport (global)
-9409: en : AftertObjectImport (global)
-9409: ru : ПослеЗагрузкиОбъекта (глобальный)
-9409: vi : AftertObjectImport (toàn cục)
-9409: ro : AftertObjectImport (global)
-9582: en : An error occurred while writing document: %1 Error description: %2
-9582: ru : Ошибка при записи документа: %1. Описание ошибки: %2
-9582: vi : Lỗi khi ghi chứng từ: %1. Mô tả lỗi: %2
-9582: ro : A apărut o eroare la scrierea documentului: %1 Descrierea erorii: %2
-11492: en : ObjectExport: %1
-11492: ru : ВыгрузкаОбъекта: %1
-11492: vi : ObjectExport: %1
-11492: ro : ExportObiect: %1
-11521: en : BeforeExportSelectionObject (global)
-11521: ru : ПередВыгрузкойОбъектаВыборки (глобальный)
-11521: vi : BeforeExportSelectionObject (toàn cục)
-11521: ro : BeforeExportSelectionObject (global)
-11574: en : AfterSelectionObjectExport (Global)
-11574: ru : ПослеВыгрузкиОбъектаВыборки (глобальный)
-11574: vi : AfterSelectionObjectExport (toàn cục)
-11574: ro : AfterSelectionObjectExport (Global)
-11930: en : DATA EXPORT RULE: %1 (%2)
-11930: ru : ПРАВИЛО ВЫГРУЗКИ ДАННЫХ: %1 (%2)
-11930: vi : QUY TẮC KẾT XUẤT DỮ LIỆU: %1 (%2)
-11930: ro : REGULA DE EXPORT A DATELOR: %1 (%2)
-12108: en : BeforeSendingInformationAboutDeletion (conversion)
-12108: ru : ПередОтправкойИнформацииОбУдалении (конвертация)
-12108: vi : BeforeSendingInformationAboutDeletion (chuyển đổi)
-12108: ro : ÎnainteaTrimiteriiInformațiilorDespreȘtergere (conversie)
-12278: en : Data exchange.Conversion rule import
-12278: ru : Обмен данными.Загрузка правил конвертации
-12278: vi : Trao đổi dữ liệu.Kết nhập quy tắc chuyển đổi
-12278: ro : Schimb de date.Import de reguli de conversie
-12332: en : Object type is undefined: %1
-12332: ru : Тип объекта не определен: %1
-12332: vi : Chưa xác định kiểu đối tượng: %1
-12332: ro : Tipul de obiect este nedefinit: %1
-12360: en : Attributes of "%1" object header are specified incorrectly. Attribute "%2" does not exist.
-12360: ru : Неправильно указаны реквизиты шапки объекта "%1". Реквизит "%2" не существует.
-12360: vi : Chỉ ra chưa chính xác mục tin phần đầu của đối tượng "%1". Mục tin "%2" không tồn tại.
-12360: ro : Atributele antetului obiect "%1" sunt specificate incorect. Atributul "%2" nu există.
-12372: en : Attributes of "%1" object header are specified incorrectly. Attribute "%2" does not exist.
-12372: ru : Неправильно указаны реквизиты шапки объекта "%1". Реквизит "%2" не существует.
-12372: vi : Chỉ ra chưa chính xác mục tin phần đầu của đối tượng "%1". Mục tin "%2" không tồn tại.
-12372: ro : Atributele antetului obiect "%1" sunt specificate incorect. Atributul "%2" nu există.
-12387: en : Tabular section (standard tabular section, movements) %1 of object %2 does not exist.
-12387: ru : Табличная часть (стандартная табличная часть, движения) "%1" объекта "%2" не существует.
-12387: vi : Phần bảng (phần bảng chuẩn, luân chuyển) "%1" của đối tượng "%2" không tồn tại.
-12387: ro : Secțiunea tabelară (secțiunea tabelară standard, mișcări) %1 a obiectului %2 nu există.
-12397: en : Attribute "%3" does not exist in the table section (standard table section, motion) "%1" of object "%2".
-12397: ru : Реквизит "%3" не существует в табличной части (стандартной табличной части, движениях) "%1" объекта "%2".
-12397: vi : Mục tin "%3" không tồn tại trong phần bảng (phần bảng chuẩn, luân chuyển) "%1" của đối tượng "%2".
-12397: ro : Atributul "%3" nu există în secțiunea tabelă (secțiunea tabelară standard, mișcare) "%1" a obiectului "%2".
-12626: en : Conversion rules of correspondent (%1) from %2
-12626: ru : Правила конвертации корреспондента (%1) от %2
-12626: vi : Quy tắc chuyển đổi nơi (%1) từ %2
-12626: ro : Normele de conversie ale corespondentului (%1) de la %2
-12628: en : Conversion rules of this infobase (%1) from %2
-12628: ru : Правила конвертации этой информационной базы (%1) от %2
-12628: vi : Quy tắc chuyển đổi của cơ sở thông tin này (%1) từ %2
-12628: ro : Regulile de conversie ale acestei baze de date (%1) de la %2
-13294: en : AfterImportOfExchangeRules (conversion)
-13294: ru : ПослеЗагрузкиПравилОбмена (конвертация)
-13294: vi : AfterImportOfExchangeRules (chuyển đổi)
-13294: ro : AfterImportOfExchangeRules (conversie)
-13362: en : WhenGettingInformationAboutDeleting (Conversion)
-13362: ru : ПриПолученииИнформацииОбУдалении (конвертация)
-13362: vi : WhenGettingInformationAboutDeleting (chuyển đổi)
-13362: ro : WhenGettingInformationAboutDeleting (Conversie)
-13439: en : Errors occurred when importing data.
-13439: ru : Возникли ошибки при загрузке данных.
-13439: vi : Đã xuất hiện lỗi khi kết nhập dữ liệu.
-13439: ro : Au apărut erori la importul datelor.
-13446: en : Errors occurred when importing data.
-13446: ru : Возникли ошибки при загрузке данных.
-13446: vi : Đã xuất hiện lỗi khi kết nhập dữ liệu.
-13446: ro : Au apărut erori la importul datelor.
-13539: en : Error in exchange message format.
-13539: ru : Ошибка формата сообщения обмена.
-13539: vi : Lỗi định dạng thông báo trao đổi.
-13539: ro : Eroare în formatul mesajului de schimb.
-13545: en : Errors occurred when importing data.
-13545: ru : Возникли ошибки при загрузке данных.
-13545: vi : Đã xuất hiện lỗi khi kết nhập dữ liệu.
-13545: ro : Au apărut erori la importul datelor.
-13697: en : Deleting object
-13697: ru : Удаление объекта
-13697: vi : Xóa đối tượng
-13697: ro : Ștergerea obiectului
-13737: en : Error in exchange message format.
-13737: ru : Ошибка формата сообщения обмена.
-13737: vi : Lỗi định dạng thông báo trao đổi.
-13737: ro : Eroare în formatul mesajului de schimb.
-13743: en : Errors occurred when importing data.
-13743: ru : Возникли ошибки при загрузке данных.
-13743: vi : Đã xuất hiện lỗi khi kết nhập dữ liệu.
-13743: ro : Au apărut erori la importul datelor.
-13900: en : Error in exchange message format.
-13900: ru : Ошибка формата сообщения обмена.
-13900: vi : Lỗi định dạng thông báo trao đổi.
-13900: ro : Eroare în formatul mesajului de schimb.
-13906: en : Errors occurred when analyzing data.
-13906: ru : Возникли ошибки при анализе данных.
-13906: vi : Đã xuất hiện lỗi khi phân tích dữ liệu.
-13906: ro : Au apărut erori la analizarea datelor.
-13994: en : Data import was canceled as: %1
-13994: ru : Загрузка данных отменена по причине: %1
-13994: vi : Đã hủy bỏ kết nhập dữ liệu theo nguyên nhân: %1
-13994: ro : Importul de date a fost anulat ca: %1
-13998: en : Data import is canceled
-13998: ru : Загрузка данных отменена
-13998: vi : Đã hủy bỏ kết nhập dữ liệu
-13998: ro : Import de date este anulat
-14080: en : Exchange node for data import is not found. Exchange plan: %1, Code: %2
-14080: ru : Не найден узел обмена для загрузки данных. План обмена: %1, Код: %2
-14080: vi : Chưa tìm thấy nút trao đổi để kết nhập dữ liệu. Sơ đồ trao đổi: %1, Mã: %2
-14080: ro : Nodul de schimb pentru importul de date nu a fost găsit. Planul de schimb: %1, Cod: %2
-14108: en : Exchange message was previously received
-14108: ru : Сообщение обмена было принято ранее
-14108: vi : Đã tiếp nhận thông điệp trao đổi trước đây
-14108: ro : Mesajul de schimb a fost primit anterior
-14116: en : Deletion of the data change registration cannot be completed in an active transaction.
-14116: ru : Удаление регистрации изменений данных не может быть выполнено в активной транзакции.
-14116: vi : Không thể thực hiện xóa nhật ký thay đổi dữ liệu ở giao tác hiện thời.
-14116: ro : Ștergerea înregistrării modificărilor de date nu poate fi finalizată într-o tranzacție activă.
-14164: en : AfterReceivingInformationAboutExchangeNodes (conversion)
-14164: ru : ПослеПолученияИнформацииОбУзлахОбмена (конвертация)
-14164: vi : AfterReceivingInformationAboutExchangeNodes (chuyển đổi)
-14164: ro : AfterReceivingInformationAboutExchangeNodes (conversie)
-14394: en : An error occurred when checking the attribute population
-14394: ru : Ошибка проверки заполнения реквизитов
-14394: vi : Lỗi kiểm tra việc điền mục tin
-14394: ro : A apărut o eroare la verificarea completării atributelor
-14772: en : BeforeDataExport (conversion)
-14772: ru : ПередВыгрузкойДанных (конвертация)
-14772: vi : BeforeDataExport (chuyển đổi)
-14772: ro : BeforeDataExport (conversie)
-14923: en : AfterDataExport (conversion)
-14923: ru : ПослеВыгрузкиДанных (конвертация)
-14923: vi : AfterDataExport (chuyển đổi)
-14923: ro : După depozit de date (conversie)
-14993: en : BeforeReceivingChangedObjects (conversion)
-14993: ru : ПередПолучениемИзмененныхОбъектов (конвертация)
-14993: vi : BeforeReceivingChangedObjects (chuyển đổi)
-14993: ro : BeforeReceivingChangedObjects (conversie)
-15799: en : An error occurred when unpacking an exchange file. The file is locked.
-15799: ru : Ошибка распаковки файла обмена. Файл заблокирован.
-15799: vi : Lỗi khi giải nén tệp trao đổi. Tệp bị khóa.
-15799: ro : A apărut o eroare la dezarhivarea unui fișier de schimb. Fișierul este blocat.
-15800: en : The specified exchange rule file does not exist.
-15800: ru : Указанный файл правил обмена не существует.
-15800: vi : Tệp quy tắc trao đổi đã chọn không tồn tại.
-15800: ro : Fișierul de reguli de schimb specificat nu există.
-15801: en : An error occurred when creating COM object Msxml2.DOMDocument
-15801: ru : Ошибка при создании COM-объекта Msxml2.DOMDocument
-15801: vi : Lỗi khi tạo đối tượng COM Msxml2.DOMDocument
-15801: ro : A apărut o eroare la crearea COM object Msxml2.DOMDocument
-15802: en : An error occurred when opening the exchange file
-15802: ru : Ошибка открытия файла обмена
-15802: vi : Lỗi mở tệp trao đổi
-15802: ro : A apărut o eroare la deschiderea fișierului de schimb
-15803: en : An error occurred when importing exchange rules
-15803: ru : Ошибка при загрузке правил обмена
-15803: vi : Lỗi khi kết nhập quy tắc trao đổi
-15803: ro : A apărut o eroare la importarea regulilor de schimb
-15804: en : Error in exchange rule format
-15804: ru : Ошибка формата правил обмена
-15804: vi : Lỗi định dạng quy tắc trao đổi
-15804: ro : Eroare în formatul regulii de schimb
-15805: en : Incorrect file name for data export
-15805: ru : Не корректно указано имя файла для выгрузки данных
-15805: vi : Đã chỉ ra không đúng tên tệp để kết xuất dữ liệu
-15805: ro : Numele de fișier incorect pentru exportul de date
-15806: en : Error in exchange file format
-15806: ru : Ошибка формата файла обмена
-15806: vi : Lỗi định dạng tệp trao đổi
-15806: ro : Eroare în formatul fișierului de schimb
-15807: en : File name for data export is not specified (Data file name)
-15807: ru : Не указано имя файла для выгрузки данных (Имя файла данных)
-15807: vi : Chưa chỉ ra tên tệp để kết xuất dữ liệu (Tên tệp dữ liệu)
-15807: ro : Numele fișierului pentru exportul de date nu este specificat (numele fișierului de date)
-15808: en : Link to a non-existing metadata object in the exchange rules
-15808: ru : Ссылка на несуществующий объект метаданных в правилах обмена
-15808: vi : Tham chiếu đến đối tượng Metadata không tồn tại trong các quy tắc trao đổi
-15808: ro : Link la un obiect de metadate inexistent în regulile de schimb
-15809: en : File name with exchange rules is not specified (Rule file name)
-15809: ru : Не указано имя файла с правилами обмена (Имя файла правил)
-15809: vi : Chưa chỉ ra tên tệp với các quy tắc trao đổi (Tên tệp quy tắc)
-15809: ro : Numele fișierului cu reguli de schimb nu este specificat (numele fișierului de reguli)
-15811: en : An error occurred when receiving a value of the object property (by the name of the source property)
-15811: ru : Ошибка получения значения свойства объекта (по имени свойства источника)
-15811: vi : Lỗi nhận giá trị thuộc tính đối tượng (theo tên thuộc tính nguồn)
-15811: ro : A apărut o eroare la primirea unei valori a proprietății obiectului (după numele proprietății sursei)
-15812: en : An error occurred when receiving the object property value (by the target property name)
-15812: ru : Ошибка получения значения свойства объекта (по имени свойства приемника)
-15812: vi : Lỗi nhận giá trị thuộc tính đối tượng (theo tên thuộc tính đích)
-15812: ro : A apărut o eroare la primirea valorii proprietății obiectului (după numele proprietății țintă)
-15814: en : File name for data import is not specified (File name for import)
-15814: ru : Не указано имя файла для загрузки данных (Имя файла для загрузки)
-15814: vi : Chưa chỉ ra tên tệp để kết nhập dữ liệu (Tên tệp để kết nhập)
-15814: ro : Numele fișierului pentru importul de date nu este specificat (numele fișierului pentru import)
-15816: en : An error occurred while receiving value of subobject property (by source property name)
-15816: ru : Ошибка получения значения свойства подчиненного объекта (по имени свойства источника)
-15816: vi : Lỗi nhận giá trị thuộc tính đối tượng trực thuộc (theo tên thuộc tính nguồn)
-15816: ro : A apărut o eroare la primirea valorii proprietatii subobiectului (după numele proprietății sursă)
-15817: en : An error occurred while receiving value of subobject property (by target property name)
-15817: ru : Ошибка получения значения свойства подчиненного объекта (по имени свойства приемника)
-15817: vi : Lỗi nhận giá trị thuộc tính đối tượng trực thuộc (theo tên thuộc tính đích)
-15817: ro : A apărut o eroare în timpul primirii valorii proprietății subiectului (după numele proprietății țintă)
-15818: en : An error occurred when creating a data processor with the handler code
-15818: ru : Ошибка при создании обработки с кодом обработчиков
-15818: vi : Lỗi khi tạo mới bộ xử lý có mã hàm sự kiện
-15818: ro : A apărut o eroare la crearea unui procesor de date cu codul de handler
-15819: en : An error occurred in event handler BeforeObjectImport
-15819: ru : Ошибка в обработчике события ПередЗагрузкойОбъекта
-15819: vi : Lỗi trong hàm sự kiện BeforeObjectImport
-15819: ro : A apărut o eroare în handler-ul evenimentului BeforeObjectImport
-15820: en : An error occurred in event handler OnObjectImport
-15820: ru : Ошибка в обработчике события ПриЗагрузкеОбъекта
-15820: vi : Lỗi trong hàm sự kiện OnObjectImport
-15820: ro : A apărut o eroare în handler-ul evenimentului OnObjectImport
-15821: en : An error occurred in event handler AfterObjectImport
-15821: ru : Ошибка в обработчике события ПослеЗагрузкиОбъекта
-15821: vi : Lỗi trong hàm sự kiện AfterObjectImport
-15821: ro : A apărut o eroare în handler-ul evenimentului AfterObjectImport
-15822: en : An error occurred in event handler BeforeDataImport (conversion)
-15822: ru : Ошибка в обработчике события ПередЗагрузкойДанных (конвертация)
-15822: vi : Lỗi trong hàm sự kiện BeforeDataImport (chuyển đổi)
-15822: ro : A apărut o eroare în handler-ul evenimentului BeforeDataImport (conversie)
-15823: en : An error occurred in event handler AfterDataImport (conversion)
-15823: ru : Ошибка в обработчике события ПослеЗагрузкиДанных (конвертация)
-15823: vi : Lỗi trong hàm sự kiện AfterDataImport (chuyển đổi)
-15823: ro : A apărut o eroare în handler-ul evenimentului AfterDataImport (conversie)
-15824: en : An error occurred when removing an object
-15824: ru : Ошибка при удалении объекта
-15824: vi : Lỗi khi xóa đối tượng
-15824: ro : A apărut o eroare la eliminarea unui obiect
-15825: en : An error occurred when writing the document
-15825: ru : Ошибка при записи документа
-15825: vi : Lỗi khi ghi chứng từ
-15825: ro : A apărut o eroare la scrierea documentului
-15826: en : An error occurred when writing the object
-15826: ru : Ошибка записи объекта
-15826: vi : Lỗi ghi đối tượng
-15826: ro : A apărut o eroare la scrierea obiectului
-15827: en : An error occurred in event handler BeforeProcessClearingRule
-15827: ru : Ошибка в обработчике события ПередОбработкойПравилаОчистки
-15827: vi : Lỗi trong hàm sự kiện BeforeProcessClearingRule
-15827: ro : A apărut o eroare în handler-ul evenimentului BeforeProcessClearingRule
-15828: en : An error occurred in event handler AfterClearingRuleProcessing
-15828: ru : Ошибка в обработчике события ПослеОбработкиПравилаОчистки
-15828: vi : Lỗi trong hàm sự kiện AfterClearingRuleProcessing
-15828: ro : A apărut o eroare în handler-ul evenimentului AfterClearingRuleProcessing 
-15829: en : An error occurred in event handler BeforeDeleteObject
-15829: ru : Ошибка в обработчике события ПередУдалениемОбъекта
-15829: vi : Lỗi trong hàm sự kiện BeforeDeleteObject
-15829: ro : A apărut o eroare în handler-ul evenimentului BeforeDeleteObject
-15831: en : An error occurred in event handler BeforeProcessExportRule
-15831: ru : Ошибка в обработчике события ПередОбработкойПравилаВыгрузки
-15831: vi : Lỗi trong hàm sự kiện BeforeProcessExportRule
-15831: ro : A apărut o eroare handler-ul evenimentului BeforeProcessExportRule
-15832: en : An error occurred in event handler AfterDumpRuleProcessing
-15832: ru : Ошибка в обработчике события ПослеОбработкиПравилаВыгрузки
-15832: vi : Lỗi trong hàm sự kiện AfterDumpRuleProcessing
-15832: ro : A apărut o eroare în handler-ul evenimentului AfterDumpRuleProcessing
-15833: en : An error occurred in event handler BeforeObjectExport
-15833: ru : Ошибка в обработчике события ПередВыгрузкойОбъекта
-15833: vi : Lỗi trong hàm sự kiện BeforeObjectExport
-15833: ro : A apărut o eroare în handler-ul evenimentului BeforeObjectExport
-15834: en : An error occurred in event handler AfterObjectExport
-15834: ru : Ошибка в обработчике события ПослеВыгрузкиОбъекта
-15834: vi : Lỗi trong hàm sự kiện AfterObjectExport
-15834: ro : A apărut o eroare în handler-ul evenimentului AfterObjectExport
-15836: en : An error occurred in event handler BeforeObjectExport
-15836: ru : Ошибка в обработчике события ПередВыгрузкойОбъекта
-15836: vi : Lỗi trong hàm sự kiện BeforeObjectExport
-15836: ro : A apărut o eroare în handler-ul evenimentului BeforeObjectExport
-15837: en : An error occurred in event handler OnObjectExport
-15837: ru : Ошибка в обработчике события ПриВыгрузкеОбъекта
-15837: vi : Lỗi trong hàm sự kiện OnObjectExport
-15837: ro : A apărut o eroare în handler-ul evenimentului OnObjectExport
-15838: en : An error occurred in event handler AfterObjectExport
-15838: ru : Ошибка в обработчике события ПослеВыгрузкиОбъекта
-15838: vi : Lỗi trong hàm sự kiện AfterObjectExport
-15838: ro : A apărut o eroare în handler-ul evenimentului AfterObjectExport
-15840: en : Object conversion rule is not found
-15840: ru : Не найдено правило конвертации объектов
-15840: vi : Không tìm thấy quy tắc chuyển đổi đối tượng
-15840: ro : Regula conversiei obiectului nu a fost găsită
-15842: en : An error occurred in event handler BeforeExportProcessor of the property group
-15842: ru : Ошибка в обработчике события ПередОбработкойВыгрузки группы свойств
-15842: vi : Lỗi trong hàm sự kiện BeforeExportProcessor nhóm thuộc tính
-15842: ro : A apărut o eroare în handler-ul evenimentului BeforeExportProcessor din grupul de proprietăți
-15843: en : An error occurred in event handler AfterExportProcessor of the property group
-15843: ru : Ошибка в обработчике события ПослеОбработкиВыгрузки группы свойств
-15843: vi : Lỗi trong hàm sự kiện AfterExportProcessor nhóm thuộc tính
-15843: ro : A apărut o eroare în handler-ul evenimentului AfterExportProcessor din grupul de proprietate
-15844: en : Error in event handler BeforeExport (of collection object)
-15844: ru : Ошибка в обработчике события ПередВыгрузкой (объекта коллекции)
-15844: vi : Lỗi trong hàm sự kiện BeforeExport (đối tượng tập hợp)
-15844: ro : Eroare la handler-ul de evenimente BeforeExport (a obiectului de colectare)
-15845: en : Error in event handler OnExport (of collection object)
-15845: ru : Ошибка в обработчике события ПриВыгрузке (объекта коллекции)
-15845: vi : Lỗi trong hàm sự kiện OnExport (đối tượng tập hợp)
-15845: ro : Eroare la handler-ul de evenimente OnExport (a obiectului de colectare)
-15846: en : Error in event handler AfterExport (of collection object)
-15846: ru : Ошибка в обработчике события ПослеВыгрузки (объекта коллекции)
-15846: vi : Lỗi trong hàm sự kiện AfterExport (đối tượng tập hợp)
-15846: ro : Eroare la handler-ul de evenimente AfterExport (a obiectului de colectare)
-15847: en : An error occurred in global event handler BeforeObjectImporting (conversion)
-15847: ru : Ошибка в глобальном обработчике события ПередЗагрузкойОбъекта (конвертация)
-15847: vi : Lỗi trong hàm sự kiện toàn cục BeforeObjectImporting (chuyển đổi)
-15847: ro : A apărut o eroare în handler-ul global a evenimentului BeforeObjectImporting (conversie)
-15848: en : An error occurred in global event handler AfterObjectImport (conversion)
-15848: ru : Ошибка в глобальном обработчике события ПослеЗагрузкиОбъекта (конвертация)
-15848: vi : Lỗi trong hàm sự kiện toàn cục AfterObjectImport (chuyển đổi)
-15848: ro : A apărut o eroare în handler-ul global a evenimentului AfterObjectImport (conversie)
-15849: en : An error occurred in event handler BeforeExport (properties)
-15849: ru : Ошибка в обработчике события ПередВыгрузкой (свойства)
-15849: vi : Lỗi trong hàm sự kiện BeforeExport (thuộc tính)
-15849: ro : A apărut o eroare în handler-ul evenimentului BeforeExport (proprietăți)
-15850: en : An error occurred in event handler OnExport (properties)
-15850: ru : Ошибка в обработчике события ПриВыгрузке (свойства)
-15850: vi : Lỗi trong hàm sự kiện OnExport (thuộc tính)
-15850: ro : A apărut o eroare în handler-ul evenimentului OnExport (proprietăți)
-15851: en : An error occurred in event handler AfterExport (properties)
-15851: ru : Ошибка в обработчике события ПослеВыгрузки (свойства)
-15851: vi : Lỗi trong hàm sự kiện AfterExport (thuộc tính)
-15851: ro : A apărut o eroare în handler-ul evenimentului AfterExport (proprietăți)
-15853: en : An error occurred in event handler BeforeDataExport (conversion)
-15853: ru : Ошибка в обработчике события ПередВыгрузкойДанных (конвертация)
-15853: vi : Lỗi trong hàm sự kiện BeforeDataExport (chuyển đổi)
-15853: ro : A apărut o eroare în handler-ul evenimentului BeforeDataExport (conversie)
-15854: en : An error occurred in event handler AfterDataExport (conversion)
-15854: ru : Ошибка в обработчике события ПослеВыгрузкиДанных (конвертация)
-15854: vi : Lỗi trong hàm sự kiện AfterDataExport (chuyển đổi)
-15854: ro : A apărut o eroare în handler-ul evenimentului AfterDataExport (conversie)
-15855: en : An error occurred in global event handler BeforeObjectConversion (conversion)
-15855: ru : Ошибка в глобальном обработчике события ПередКонвертациейОбъекта (конвертация)
-15855: vi : Lỗi trong hàm sự kiện toàn cục BeforeObjectConversion (chuyển đổi)
-15855: ro : A apărut o eroare în handler-ul global a evenimentului BeforeObjectConversion (conversie)
-15856: en : An error occurred in global event handler BeforeObjectExport (conversion)
-15856: ru : Ошибка в глобальном обработчике события ПередВыгрузкойОбъекта (конвертация)
-15856: vi : Lỗi trong hàm sự kiện toàn cục BeforeObjectExport (chuyển đổi)
-15856: ro : A apărut o eroare în handler-ul global a evenimentului BeforeObjectExport (conversie)
-15857: en : An error occurred when receiving a subordinate object collection from the incoming data
-15857: ru : Ошибка получения коллекции подчиненных объектов из входящих данных
-15857: vi : Lỗi nhận tập hợp đối tượng trực thuộc từ dữ liệu đến
-15857: ro : A apărut o eroare la primirea unei colecții de obiecte subordonate din datele primite
-15858: en : An error occurred when receiving the subordinate object properties from the incoming data
-15858: ru : Ошибка получения свойства подчиненного объекта из входящих данных
-15858: vi : Lỗi nhận thuộc tính đối tượng trực thuộc từ dữ liệu đến
-15858: ro : A apărut o eroare la primirea proprietăților obiectului subordonat din datele primite
-15859: en : An error occurred when receiving the object properties from the incoming data
-15859: ru : Ошибка получения свойства объекта из входящих данных
-15859: vi : Lỗi nhận thuộc tính đối tượng từ dữ liệu đến
-15859: ro : A apărut o eroare la primirea proprietăților obiectului din datele intrate
-15861: en : An error occurred in global event handler AfterObjectExport (conversion)
-15861: ru : Ошибка в глобальном обработчике события ПослеВыгрузкиОбъекта (конвертация)
-15861: vi : Lỗi trong hàm sự kiện toàn cục AfterObjectExport (chuyển đổi)
-15861: ro : A apărut o eroare în handler-ul global a evenimentului AfterObjectExport (conversie)
-15863: en : Match for the Source value is not found
-15863: ru : Не найдено соответствие для значения Источника
-15863: vi : Không tìm thấy sự tương ứng đối với giá trị Nguồn
-15863: ro : Coincidența pentru valoarea sursă nu a fost găsită
-15865: en : An error occurred when exporting data for the exchange plan node
-15865: ru : Ошибка при выгрузке данных для узла плана обмена
-15865: vi : Lỗi khi kết xuất dữ liệu đối với nút của sơ đồ trao đổi
-15865: ro : A apărut o eroare la exportul datelor pentru nodul planului de schimb
-15867: en : An error occurred in event handler SearchFieldsSequence
-15867: ru : Ошибка в обработчике события ПоследовательностьПолейПоиска
-15867: vi : Lỗi trong hàm sự kiện SearchFieldsSequence
-15867: ro : A apărut o eroare în handler-ul evenimentului SearchFieldsSequence
-15868: en : Import exchange rules for data export again.
-15868: ru : Необходимо перезагрузить правила обмена для выгрузки данных.
-15868: vi : Cần kết nhập lại quy tắc trao đổi để kết xuất dữ liệu.
-15868: ro : Importați din nou regulile de schimb pentru exportul de date.
-15870: en : An error occurred in event handler AfterImportOfExchangeRules (conversion)
-15870: ru : Ошибка в обработчике события ПослеЗагрузкиПравилОбмена (конвертация)
-15870: vi : Lỗi trong hàm sự kiện AfterImportOfExchangeRules (chuyển đổi)
-15870: ro : A apărut o eroare la handler-ul evenimentului AfterImportOfExchangeRules (conversie)
-15871: en : An error occurred in event handler BeforeSendingUninstallInformation (conversion)
-15871: ru : Ошибка в обработчике события ПередОтправкойИнформацииОбУдалении (конвертация)
-15871: vi : Lỗi trong hàm sự kiện BeforeSendingUninstallInformation (chuyển đổi)
-15871: ro : A apărut o eroare în handler-ul evenimentului BeforeSendingUninstallInformation (conversie)
-15872: en : An error occurred in event handler OnObtainingInformationAboutDeletion (conversion)
-15872: ru : Ошибка в обработчике события ПриПолученииИнформацииОбУдалении (конвертация)
-15872: vi : Lỗi trong hàm sự kiện OnObtainingInformationAboutDeletion (chuyển đổi)
-15872: ro : A apărut o eroare în handler-ul evenimentului OnObtainingInformationAboutDeletion (conversie)
-15874: en : An error occurred when executing the algorithm after import of the parameter values
-15874: ru : Ошибка при выполнении алгоритма после загрузки значений параметров
-15874: vi : Lỗi khi thực hiện thuật toán sau khi kết nhập giá trị tham số
-15874: ro : A apărut o eroare la executarea algoritmului după importul valorilor parametrilor
-15876: en : An error occurred in event handler AfterObjectExportToFile
-15876: ru : Ошибка в обработчике события ПослеВыгрузкиОбъектаВФайл
-15876: vi : Lỗi trong hàm sự kiện AfterObjectExportToFile
-15876: ro : A apărut o eroare în handler-ul evenimentului AfterObjectExportToFile
-15886: en : An error occurred while accessing the object tabular section. The object tabular section cannot be changed.
-15886: ru : Ошибка обращения к табличной части объекта. Табличная часть объекта не может быть изменена.
-15886: vi : Lỗi truy cập đến phần bảng đối tượng. Không thể thay đổi phần bảng đối tượng.
-15886: ro : A apărut o eroare la accesarea secțiunii tabulare a obiectului. Secțiunea tabulară a obiectului nu poate fi modificată.
-15887: en : Collision of change closing dates.
-15887: ru : Коллизия дат запрета изменения.
-15887: vi : Mâu thuẫn ngày cấm thay đổi.
-15887: ro : Coliziunea datei de închidere a modificării.
-15889: en : An error of the exchange node lock occurred. Maybe, data synchronization is already in progress
-15889: ru : Ошибка блокировки узла обмена. Возможно синхронизация данных уже выполняется
-15889: vi : Lỗi phong tỏa nút trao đổi. Có thể, đã thực hiện đồng bộ hóa dữ liệu
-15889: ro : A apărut o eroare a blocării nodului de schimb. Poate că sincronizarea datelor este deja în curs
-15890: en : Exchange message was previously received
-15890: ru : Сообщение обмена было принято ранее
-15890: vi : Đã tiếp nhận thông điệp trao đổi trước đây
-15890: ro : Mesajul de schimb a fost primit anterior
-15891: en : An error occurred in event handler BeforeModifiedObjectsReceiving (conversion)
-15891: ru : Ошибка в обработчике события ПередПолучениемИзмененныхОбъектов (конвертация)
-15891: vi : Lỗi trong hàm sự kiện BeforeModifiedObjectsReceiving (chuyển đổi)
-15891: ro : A apărut o eroare în handler-ul evenimentului BeforeModifiedObjectsReceiving (conversie)
-15892: en : An error occurred in event handler AfterGettingInformationAboutExchangeNodes (conversion)
-15892: ru : Ошибка в обработчике события ПослеПолученияИнформацииОбУзлахОбмена (конвертация)
-15892: vi : Lỗi trong hàm sự kiện AfterGettingInformationAboutExchangeNodes (chuyển đổi)
-15892: ro : A apărut o eroare în handler-ul evenimentului AfterGettingInformationAboutExchangeNodes (conversie)
-15894: en : An error occurred when creating a temporary file of data export
-15894: ru : Ошибка при создании временного файла выгрузки данных
-15894: vi : Lỗi khi tạo tệp tạm thời kết xuất dữ liệu
-15894: ro : A apărut o eroare la crearea unui fișier temporar de export de date
+865: en : Errors occurred when importing data.
+865: ru : Возникли ошибки при загрузке данных.
+865: vi : Đã xuất hiện lỗi khi kết nhập dữ liệu.
+865: ro : Au apărut erori la importul datelor.
+872: en : Errors occurred when importing data.
+872: ru : Возникли ошибки при загрузке данных.
+872: vi : Đã xuất hiện lỗi khi kết nhập dữ liệu.
+872: ro : Au apărut erori la importul datelor.
+950: en : Data exchange process start for node: %1
+950: ru : Начало процесса обмена данными для узла: %1
+950: vi : Bắt đầu quá trình trao đổi dữ liệu đối với nút: %1
+950: ro : Începutul procesului de schimb de date pentru nod: %1
+963: en : %1, %2; %3 objects are processed
+963: ru : %1, %2; Обработано %3 объектов
+963: vi : %1, %2; Đã xử lý %3 đối tượng
+963: ro : %1, %2; %3 obiectele sunt procesate
+1086: en : Errors occurred when analyzing data.
+1086: ru : Возникли ошибки при анализе данных.
+1086: vi : Đã xuất hiện lỗi khi phân tích dữ liệu.
+1086: ro : Au apărut erori la analizarea datelor.
+1201: en : BeforeDataImport (Conversion)
+1201: ru : ПередЗагрузкойДанных (конвертация)
+1201: vi : BeforeDataImport (chuyển đổi)
+1201: ro : BeforeDataImport (conversie)
+1290: en : AfterDataImport (conversion)
+1290: ru : ПослеЗагрузкиДанных (конвертация)
+1290: vi : AfterDataImport (chuyển đổi)
+1290: ro : AfterDataImport (conversie)
+1483: en : Attempting to change shared data (%1) in split session.
+1483: ru : Попытка изменения неразделенных данных (%1) в разделенном сеансе.
+1483: vi : Thử thay đổi dữ liệu chưa chia tách (%1) trong phiên làm việc đã chia tách.
+1483: ro : Încercarea de a schimba datele partajate (%1) în sesiunea separată.
+1637: en : Conversion of (reference) to object
+1637: ru : Конвертация ссылки на объект
+1637: vi : Chuyển đổi tham chiếu đến đối tượng
+1637: ro : Conversia referinței la obiect
+1637: en : Object conversion
+1637: ru : Конвертация (объекта)
+1637: vi : Chuyển đổi đối tượng
+1637: ro : Conversia obiectelor
+1639: en : [NameActions]: [Object]([ObjectType]), OCR: [OCR](OCRDescription)
+1639: ru : [ИмяДействия]: [Объект]([ТипОбъекта]), ПКО: [ПКО](НаименованиеПКО)
+1639: vi : [NameActions]: [Object]([ObjectType]), OCR: [OCR](OCRDescription)
+1639: ro : [NameActions]: [Obiect] ([ObjectType]), OCR: [OCR] (OCRDescription)
+1738: en : BeforeObjectConversion (global)
+1738: ru : ПередКонвертациейОбъекта (глобальный)
+1738: vi : BeforeObjectConversion (toàn cục)
+1738: ro : BeforeObjectConversion (la nivel mondial)
+3352: en : EXTERNAL CONNECTION: %1
+3352: ru : ВНЕШНЕЕ СОЕДИНЕНИЕ: %1
+3352: vi : KẾT NỐI NGOÀI: %1
+3352: ro : CONEXIUNEA EXTERNĂ: %1
+3496: en : An error occurred when attempting to write to data protocol file: %1. Error description: %2
+3496: ru : Ошибка при попытке записи в файл протокола данных: %1. Описание ошибки: %2
+3496: vi : Lỗi khi thử ghi ra tệp giao thức dữ liệu: %1. Mô tả lỗi: %2
+3496: ro : A apărut o eroare la încercarea de scriere în fișierul protocolului de date: %1. Descrierea erorii: %2
+5830: en : Error in exchange message format.
+5830: ru : Ошибка формата сообщения обмена.
+5830: vi : Lỗi định dạng thông báo trao đổi.
+5830: ro : Eroare în formatul mesajului de schimb.
+5834: en : Error in exchange message format.
+5834: ru : Ошибка формата сообщения обмена.
+5834: vi : Lỗi định dạng thông báo trao đổi.
+5834: ro : Eroare în formatul mesajului de schimb.
+5854: en : Error in exchange message format.
+5854: ru : Ошибка формата сообщения обмена.
+5854: vi : Lỗi định dạng thông báo trao đổi.
+5854: ro : Eroare în formatul mesajului de schimb.
+5858: en : Error in exchange message format.
+5858: ru : Ошибка формата сообщения обмена.
+5858: vi : Lỗi định dạng thông báo trao đổi.
+5858: ro : Eroare în formatul mesajului de schimb.
+5864: en : Errors occurred when importing data exchange rules.
+5864: ru : При загрузке правил обмена данными возникли ошибки.
+5864: vi : Khi kết nhập quy tắc trao đổi dữ liệu đã nảy sinh lỗi.
+5864: ro : Au apărut erori la importul regulilor de schimb de date.
+5888: en : BeforeDataImport (Conversion)
+5888: ru : ПередЗагрузкойДанных (конвертация)
+5888: vi : BeforeDataImport (chuyển đổi)
+5888: ro : BeforeDataImport (conversie)
+5892: en : Cancel importing exchange message in the BeforeDataImport handler (conversion).
+5892: ru : Отказ от загрузки сообщения обмена в обработчике ПередЗагрузкойДанных (конвертация).
+5892: vi : Từ chối kết nhập thông điệp trao đổi trong hàm sự kiện BeforeDataImport (chuyển đổi).
+5892: ro : Anulați importul mesajului de schimb în handler BeforeDataImport (conversie).
+5901: en : Error in exchange message format.
+5901: ru : Ошибка формата сообщения обмена.
+5901: vi : Lỗi định dạng thông báo trao đổi.
+5901: ro : Eroare în formatul mesajului de schimb.
+5914: en : Error in exchange message's format.
+5914: ru : Ошибка формата сообщения обмена.
+5914: vi : Lỗi định dạng thông báo trao đổi.
+5914: ro : Eroare în formatul mesajului de schimb.
+5922: en : Errors occurred when importing information on data types.
+5922: ru : При загрузке информации о типах данных возникли ошибки.
+5922: vi : Khi kết nhập thông tin về kiểu dữ liệu, đã nảy sinh lỗi.
+5922: ro : Au apărut erori la importul de informații privind tipurile de date.
+5932: en : Error in exchange message format.
+5932: ru : Ошибка формата сообщения обмена.
+5932: vi : Lỗi định dạng thông báo trao đổi.
+5932: ro : Eroare în formatul mesajului de schimb.
+5942: en : Error in exchange message format.
+5942: ru : Ошибка формата сообщения обмена.
+5942: vi : Lỗi định dạng thông báo trao đổi.
+5942: ro : Eroare în formatul mesajului de schimb.
+5958: en : Error in exchange message format.
+5958: ru : Ошибка формата сообщения обмена.
+5958: vi : Lỗi định dạng thông báo trao đổi.
+5958: ro : Eroare în formatul mesajului de schimb.
+5967: en : Error in exchange message format.
+5967: ru : Ошибка формата сообщения обмена.
+5967: vi : Lỗi định dạng thông báo trao đổi.
+5967: ro : Eroare în formatul mesajului de schimb.
+5971: en : Error in exchange message format.
+5971: ru : Ошибка формата сообщения обмена.
+5971: vi : Lỗi định dạng thông báo trao đổi.
+5971: ro : Eroare în formatul mesajului de schimb.
+5978: en : Lock of data receipt cannot be set in an active transaction.
+5978: ru : Блокировка получения данных не может быть установлена в активной транзакции.
+5978: vi : Không thể khóa việc nhận dữ liệu ở giao tác hiện hoạt.
+5978: ro : Blocarea primirii datelor nu poate fi setată într-o tranzacție activă.
+6026: en : AfterDataImport (conversion)
+6026: ru : ПослеЗагрузкиДанных (конвертация)
+6026: vi : AfterDataImport (chuyển đổi)
+6026: ro : AfterDataImport (conversie)
+6033: en : Error in exchange message format.
+6033: ru : Ошибка формата сообщения обмена.
+6033: vi : Lỗi định dạng thông báo trao đổi.
+6033: ro : Eroare în formatul mesajului de schimb.
+6037: en : Error in exchange message format.
+6037: ru : Ошибка формата сообщения обмена.
+6037: vi : Lỗi định dạng thông báo trao đổi.
+6037: ro : Eroare în formatul mesajului de schimb.
+6096: en : Decline exchange message import in handler AfterParametersImport (conversion) due to: %1
+6096: ru : Отказ от загрузки сообщения обмена в обработчике ПослеЗагрузкиПараметров (конвертация) по причине: %1
+6096: vi : Từ chối kết nhập thông báo trao đổi trong hàm sự kiện AfterParametersImport (chuyển đổi) theo nguyên nhân: %1
+6096: ro : Refuză importul mesajului de schimb în handler AfterParametersImport (conversie) din cauza: %1
+6100: en : Cancel importing exchange message in the AfterImportOfParameters handler (conversion).
+6100: ru : Отказ от загрузки сообщения обмена в обработчике ПослеЗагрузкиПараметров (конвертация).
+6100: vi : Từ chối kết nhập thông báo trao đổi trong hàm sự kiện AfterImportOfParameters (chuyển đổi).
+6100: ro : Anulați importul mesajului de schimb în instrumentul handler AfterImportOfParameters (conversie).
+6299: en : Access right violation: %1
+6299: ru : Нарушение прав доступа: %1
+6299: vi : Vi phạm quyền truy cập: %1
+6299: ro : Încălcarea dreptului de acces: %1
+6320: en : Operation is not executed: %1 %2
+6320: ru : Операция не выполнена: %1 %2
+6320: vi : Đã thực hiện giao dịch: %1 %2
+6320: ro : Operația nu este executată: %1 %2
+7515: en : Sequence of search fields
+7515: ru : Последовательность полей поиска
+7515: vi : Chuỗi nối tiếp các trường tìm kiếm
+7515: ro : Secvența câmpurilor de căutare
+7814: en : Tabular section name: %1
+7814: ru : Имя табличной части: %1
+7814: vi : Tên phần bảng: %1
+7814: ro : Nume secțiune de tabel:  %1
+8331: en : Import object No. %1
+8331: ru : Загрузка объекта № %1
+8331: vi : Kết nhập đối tượng số %1
+8331: ro : Import obiecte Nr. %1
+8620: en : BeforeObjectImport (global)
+8620: ru : ПередЗагрузкойОбъекта (глобальный)
+8620: vi : BeforeObjectImport (toàn cục)
+8620: ro : BeforeObjectImport (global)
+9035: en : BeforeObjectImport (global)
+9035: ru : ПередЗагрузкойОбъекта (глобальный)
+9035: vi : BeforeObjectImport (toàn cục)
+9035: ro : BeforeObjectImport (global)
+9408: en : AftertObjectImport (global)
+9408: ru : ПослеЗагрузкиОбъекта (глобальный)
+9408: vi : AftertObjectImport (toàn cục)
+9408: ro : AftertObjectImport (global)
+9581: en : An error occurred while writing document: %1 Error description: %2
+9581: ru : Ошибка при записи документа: %1. Описание ошибки: %2
+9581: vi : Lỗi khi ghi chứng từ: %1. Mô tả lỗi: %2
+9581: ro : A apărut o eroare la scrierea documentului: %1 Descrierea erorii: %2
+11491: en : ObjectExport: %1
+11491: ru : ВыгрузкаОбъекта: %1
+11491: vi : ObjectExport: %1
+11491: ro : ExportObiect: %1
+11520: en : BeforeExportSelectionObject (global)
+11520: ru : ПередВыгрузкойОбъектаВыборки (глобальный)
+11520: vi : BeforeExportSelectionObject (toàn cục)
+11520: ro : BeforeExportSelectionObject (global)
+11573: en : AfterSelectionObjectExport (Global)
+11573: ru : ПослеВыгрузкиОбъектаВыборки (глобальный)
+11573: vi : AfterSelectionObjectExport (toàn cục)
+11573: ro : AfterSelectionObjectExport (Global)
+11929: en : DATA EXPORT RULE: %1 (%2)
+11929: ru : ПРАВИЛО ВЫГРУЗКИ ДАННЫХ: %1 (%2)
+11929: vi : QUY TẮC KẾT XUẤT DỮ LIỆU: %1 (%2)
+11929: ro : REGULA DE EXPORT A DATELOR: %1 (%2)
+12107: en : BeforeSendingInformationAboutDeletion (conversion)
+12107: ru : ПередОтправкойИнформацииОбУдалении (конвертация)
+12107: vi : BeforeSendingInformationAboutDeletion (chuyển đổi)
+12107: ro : ÎnainteaTrimiteriiInformațiilorDespreȘtergere (conversie)
+12277: en : Data exchange.Conversion rule import
+12277: ru : Обмен данными.Загрузка правил конвертации
+12277: vi : Trao đổi dữ liệu.Kết nhập quy tắc chuyển đổi
+12277: ro : Schimb de date.Import de reguli de conversie
+12331: en : Object type is undefined: %1
+12331: ru : Тип объекта не определен: %1
+12331: vi : Chưa xác định kiểu đối tượng: %1
+12331: ro : Tipul de obiect este nedefinit: %1
+12359: en : Attributes of "%1" object header are specified incorrectly. Attribute "%2" does not exist.
+12359: ru : Неправильно указаны реквизиты шапки объекта "%1". Реквизит "%2" не существует.
+12359: vi : Chỉ ra chưa chính xác mục tin phần đầu của đối tượng "%1". Mục tin "%2" không tồn tại.
+12359: ro : Atributele antetului obiect "%1" sunt specificate incorect. Atributul "%2" nu există.
+12371: en : Attributes of "%1" object header are specified incorrectly. Attribute "%2" does not exist.
+12371: ru : Неправильно указаны реквизиты шапки объекта "%1". Реквизит "%2" не существует.
+12371: vi : Chỉ ra chưa chính xác mục tin phần đầu của đối tượng "%1". Mục tin "%2" không tồn tại.
+12371: ro : Atributele antetului obiect "%1" sunt specificate incorect. Atributul "%2" nu există.
+12386: en : Tabular section (standard tabular section, movements) %1 of object %2 does not exist.
+12386: ru : Табличная часть (стандартная табличная часть, движения) "%1" объекта "%2" не существует.
+12386: vi : Phần bảng (phần bảng chuẩn, luân chuyển) "%1" của đối tượng "%2" không tồn tại.
+12386: ro : Secțiunea tabelară (secțiunea tabelară standard, mișcări) %1 a obiectului %2 nu există.
+12396: en : Attribute "%3" does not exist in the table section (standard table section, motion) "%1" of object "%2".
+12396: ru : Реквизит "%3" не существует в табличной части (стандартной табличной части, движениях) "%1" объекта "%2".
+12396: vi : Mục tin "%3" không tồn tại trong phần bảng (phần bảng chuẩn, luân chuyển) "%1" của đối tượng "%2".
+12396: ro : Atributul "%3" nu există în secțiunea tabelă (secțiunea tabelară standard, mișcare) "%1" a obiectului "%2".
+12625: en : Conversion rules of correspondent (%1) from %2
+12625: ru : Правила конвертации корреспондента (%1) от %2
+12625: vi : Quy tắc chuyển đổi nơi (%1) từ %2
+12625: ro : Normele de conversie ale corespondentului (%1) de la %2
+12627: en : Conversion rules of this infobase (%1) from %2
+12627: ru : Правила конвертации этой информационной базы (%1) от %2
+12627: vi : Quy tắc chuyển đổi của cơ sở thông tin này (%1) từ %2
+12627: ro : Regulile de conversie ale acestei baze de date (%1) de la %2
+13293: en : AfterImportOfExchangeRules (conversion)
+13293: ru : ПослеЗагрузкиПравилОбмена (конвертация)
+13293: vi : AfterImportOfExchangeRules (chuyển đổi)
+13293: ro : AfterImportOfExchangeRules (conversie)
+13361: en : WhenGettingInformationAboutDeleting (Conversion)
+13361: ru : ПриПолученииИнформацииОбУдалении (конвертация)
+13361: vi : WhenGettingInformationAboutDeleting (chuyển đổi)
+13361: ro : WhenGettingInformationAboutDeleting (Conversie)
+13438: en : Errors occurred when importing data.
+13438: ru : Возникли ошибки при загрузке данных.
+13438: vi : Đã xuất hiện lỗi khi kết nhập dữ liệu.
+13438: ro : Au apărut erori la importul datelor.
+13445: en : Errors occurred when importing data.
+13445: ru : Возникли ошибки при загрузке данных.
+13445: vi : Đã xuất hiện lỗi khi kết nhập dữ liệu.
+13445: ro : Au apărut erori la importul datelor.
+13538: en : Error in exchange message format.
+13538: ru : Ошибка формата сообщения обмена.
+13538: vi : Lỗi định dạng thông báo trao đổi.
+13538: ro : Eroare în formatul mesajului de schimb.
+13544: en : Errors occurred when importing data.
+13544: ru : Возникли ошибки при загрузке данных.
+13544: vi : Đã xuất hiện lỗi khi kết nhập dữ liệu.
+13544: ro : Au apărut erori la importul datelor.
+13696: en : Deleting object
+13696: ru : Удаление объекта
+13696: vi : Xóa đối tượng
+13696: ro : Ștergerea obiectului
+13736: en : Error in exchange message format.
+13736: ru : Ошибка формата сообщения обмена.
+13736: vi : Lỗi định dạng thông báo trao đổi.
+13736: ro : Eroare în formatul mesajului de schimb.
+13742: en : Errors occurred when importing data.
+13742: ru : Возникли ошибки при загрузке данных.
+13742: vi : Đã xuất hiện lỗi khi kết nhập dữ liệu.
+13742: ro : Au apărut erori la importul datelor.
+13899: en : Error in exchange message format.
+13899: ru : Ошибка формата сообщения обмена.
+13899: vi : Lỗi định dạng thông báo trao đổi.
+13899: ro : Eroare în formatul mesajului de schimb.
+13905: en : Errors occurred when analyzing data.
+13905: ru : Возникли ошибки при анализе данных.
+13905: vi : Đã xuất hiện lỗi khi phân tích dữ liệu.
+13905: ro : Au apărut erori la analizarea datelor.
+13993: en : Data import was canceled as: %1
+13993: ru : Загрузка данных отменена по причине: %1
+13993: vi : Đã hủy bỏ kết nhập dữ liệu theo nguyên nhân: %1
+13993: ro : Importul de date a fost anulat ca: %1
+13997: en : Data import is canceled
+13997: ru : Загрузка данных отменена
+13997: vi : Đã hủy bỏ kết nhập dữ liệu
+13997: ro : Import de date este anulat
+14079: en : Exchange node for data import is not found. Exchange plan: %1, Code: %2
+14079: ru : Не найден узел обмена для загрузки данных. План обмена: %1, Код: %2
+14079: vi : Chưa tìm thấy nút trao đổi để kết nhập dữ liệu. Sơ đồ trao đổi: %1, Mã: %2
+14079: ro : Nodul de schimb pentru importul de date nu a fost găsit. Planul de schimb: %1, Cod: %2
+14107: en : Exchange message was previously received
+14107: ru : Сообщение обмена было принято ранее
+14107: vi : Đã tiếp nhận thông điệp trao đổi trước đây
+14107: ro : Mesajul de schimb a fost primit anterior
+14115: en : Deletion of the data change registration cannot be completed in an active transaction.
+14115: ru : Удаление регистрации изменений данных не может быть выполнено в активной транзакции.
+14115: vi : Không thể thực hiện xóa nhật ký thay đổi dữ liệu ở giao tác hiện thời.
+14115: ro : Ștergerea înregistrării modificărilor de date nu poate fi finalizată într-o tranzacție activă.
+14163: en : AfterReceivingInformationAboutExchangeNodes (conversion)
+14163: ru : ПослеПолученияИнформацииОбУзлахОбмена (конвертация)
+14163: vi : AfterReceivingInformationAboutExchangeNodes (chuyển đổi)
+14163: ro : AfterReceivingInformationAboutExchangeNodes (conversie)
+14393: en : An error occurred when checking the attribute population
+14393: ru : Ошибка проверки заполнения реквизитов
+14393: vi : Lỗi kiểm tra việc điền mục tin
+14393: ro : A apărut o eroare la verificarea completării atributelor
+14771: en : BeforeDataExport (conversion)
+14771: ru : ПередВыгрузкойДанных (конвертация)
+14771: vi : BeforeDataExport (chuyển đổi)
+14771: ro : BeforeDataExport (conversie)
+14922: en : AfterDataExport (conversion)
+14922: ru : ПослеВыгрузкиДанных (конвертация)
+14922: vi : AfterDataExport (chuyển đổi)
+14922: ro : După depozit de date (conversie)
+14992: en : BeforeReceivingChangedObjects (conversion)
+14992: ru : ПередПолучениемИзмененныхОбъектов (конвертация)
+14992: vi : BeforeReceivingChangedObjects (chuyển đổi)
+14992: ro : BeforeReceivingChangedObjects (conversie)
+15798: en : An error occurred when unpacking an exchange file. The file is locked.
+15798: ru : Ошибка распаковки файла обмена. Файл заблокирован.
+15798: vi : Lỗi khi giải nén tệp trao đổi. Tệp bị khóa.
+15798: ro : A apărut o eroare la dezarhivarea unui fișier de schimb. Fișierul este blocat.
+15799: en : The specified exchange rule file does not exist.
+15799: ru : Указанный файл правил обмена не существует.
+15799: vi : Tệp quy tắc trao đổi đã chọn không tồn tại.
+15799: ro : Fișierul de reguli de schimb specificat nu există.
+15800: en : An error occurred when creating COM object Msxml2.DOMDocument
+15800: ru : Ошибка при создании COM-объекта Msxml2.DOMDocument
+15800: vi : Lỗi khi tạo đối tượng COM Msxml2.DOMDocument
+15800: ro : A apărut o eroare la crearea COM object Msxml2.DOMDocument
+15801: en : An error occurred when opening the exchange file
+15801: ru : Ошибка открытия файла обмена
+15801: vi : Lỗi mở tệp trao đổi
+15801: ro : A apărut o eroare la deschiderea fișierului de schimb
+15802: en : An error occurred when importing exchange rules
+15802: ru : Ошибка при загрузке правил обмена
+15802: vi : Lỗi khi kết nhập quy tắc trao đổi
+15802: ro : A apărut o eroare la importarea regulilor de schimb
+15803: en : Error in exchange rule format
+15803: ru : Ошибка формата правил обмена
+15803: vi : Lỗi định dạng quy tắc trao đổi
+15803: ro : Eroare în formatul regulii de schimb
+15804: en : Incorrect file name for data export
+15804: ru : Не корректно указано имя файла для выгрузки данных
+15804: vi : Đã chỉ ra không đúng tên tệp để kết xuất dữ liệu
+15804: ro : Numele de fișier incorect pentru exportul de date
+15805: en : Error in exchange file format
+15805: ru : Ошибка формата файла обмена
+15805: vi : Lỗi định dạng tệp trao đổi
+15805: ro : Eroare în formatul fișierului de schimb
+15806: en : File name for data export is not specified (Data file name)
+15806: ru : Не указано имя файла для выгрузки данных (Имя файла данных)
+15806: vi : Chưa chỉ ra tên tệp để kết xuất dữ liệu (Tên tệp dữ liệu)
+15806: ro : Numele fișierului pentru exportul de date nu este specificat (numele fișierului de date)
+15807: en : Link to a non-existing metadata object in the exchange rules
+15807: ru : Ссылка на несуществующий объект метаданных в правилах обмена
+15807: vi : Tham chiếu đến đối tượng Metadata không tồn tại trong các quy tắc trao đổi
+15807: ro : Link la un obiect de metadate inexistent în regulile de schimb
+15808: en : File name with exchange rules is not specified (Rule file name)
+15808: ru : Не указано имя файла с правилами обмена (Имя файла правил)
+15808: vi : Chưa chỉ ra tên tệp với các quy tắc trao đổi (Tên tệp quy tắc)
+15808: ro : Numele fișierului cu reguli de schimb nu este specificat (numele fișierului de reguli)
+15810: en : An error occurred when receiving a value of the object property (by the name of the source property)
+15810: ru : Ошибка получения значения свойства объекта (по имени свойства источника)
+15810: vi : Lỗi nhận giá trị thuộc tính đối tượng (theo tên thuộc tính nguồn)
+15810: ro : A apărut o eroare la primirea unei valori a proprietății obiectului (după numele proprietății sursei)
+15811: en : An error occurred when receiving the object property value (by the target property name)
+15811: ru : Ошибка получения значения свойства объекта (по имени свойства приемника)
+15811: vi : Lỗi nhận giá trị thuộc tính đối tượng (theo tên thuộc tính đích)
+15811: ro : A apărut o eroare la primirea valorii proprietății obiectului (după numele proprietății țintă)
+15813: en : File name for data import is not specified (File name for import)
+15813: ru : Не указано имя файла для загрузки данных (Имя файла для загрузки)
+15813: vi : Chưa chỉ ra tên tệp để kết nhập dữ liệu (Tên tệp để kết nhập)
+15813: ro : Numele fișierului pentru importul de date nu este specificat (numele fișierului pentru import)
+15815: en : An error occurred while receiving value of subobject property (by source property name)
+15815: ru : Ошибка получения значения свойства подчиненного объекта (по имени свойства источника)
+15815: vi : Lỗi nhận giá trị thuộc tính đối tượng trực thuộc (theo tên thuộc tính nguồn)
+15815: ro : A apărut o eroare la primirea valorii proprietatii subobiectului (după numele proprietății sursă)
+15816: en : An error occurred while receiving value of subobject property (by target property name)
+15816: ru : Ошибка получения значения свойства подчиненного объекта (по имени свойства приемника)
+15816: vi : Lỗi nhận giá trị thuộc tính đối tượng trực thuộc (theo tên thuộc tính đích)
+15816: ro : A apărut o eroare în timpul primirii valorii proprietății subiectului (după numele proprietății țintă)
+15817: en : An error occurred when creating a data processor with the handler code
+15817: ru : Ошибка при создании обработки с кодом обработчиков
+15817: vi : Lỗi khi tạo mới bộ xử lý có mã hàm sự kiện
+15817: ro : A apărut o eroare la crearea unui procesor de date cu codul de handler
+15818: en : An error occurred in event handler BeforeObjectImport
+15818: ru : Ошибка в обработчике события ПередЗагрузкойОбъекта
+15818: vi : Lỗi trong hàm sự kiện BeforeObjectImport
+15818: ro : A apărut o eroare în handler-ul evenimentului BeforeObjectImport
+15819: en : An error occurred in event handler OnObjectImport
+15819: ru : Ошибка в обработчике события ПриЗагрузкеОбъекта
+15819: vi : Lỗi trong hàm sự kiện OnObjectImport
+15819: ro : A apărut o eroare în handler-ul evenimentului OnObjectImport
+15820: en : An error occurred in event handler AfterObjectImport
+15820: ru : Ошибка в обработчике события ПослеЗагрузкиОбъекта
+15820: vi : Lỗi trong hàm sự kiện AfterObjectImport
+15820: ro : A apărut o eroare în handler-ul evenimentului AfterObjectImport
+15821: en : An error occurred in event handler BeforeDataImport (conversion)
+15821: ru : Ошибка в обработчике события ПередЗагрузкойДанных (конвертация)
+15821: vi : Lỗi trong hàm sự kiện BeforeDataImport (chuyển đổi)
+15821: ro : A apărut o eroare în handler-ul evenimentului BeforeDataImport (conversie)
+15822: en : An error occurred in event handler AfterDataImport (conversion)
+15822: ru : Ошибка в обработчике события ПослеЗагрузкиДанных (конвертация)
+15822: vi : Lỗi trong hàm sự kiện AfterDataImport (chuyển đổi)
+15822: ro : A apărut o eroare în handler-ul evenimentului AfterDataImport (conversie)
+15823: en : An error occurred when removing an object
+15823: ru : Ошибка при удалении объекта
+15823: vi : Lỗi khi xóa đối tượng
+15823: ro : A apărut o eroare la eliminarea unui obiect
+15824: en : An error occurred when writing the document
+15824: ru : Ошибка при записи документа
+15824: vi : Lỗi khi ghi chứng từ
+15824: ro : A apărut o eroare la scrierea documentului
+15825: en : An error occurred when writing the object
+15825: ru : Ошибка записи объекта
+15825: vi : Lỗi ghi đối tượng
+15825: ro : A apărut o eroare la scrierea obiectului
+15826: en : An error occurred in event handler BeforeProcessClearingRule
+15826: ru : Ошибка в обработчике события ПередОбработкойПравилаОчистки
+15826: vi : Lỗi trong hàm sự kiện BeforeProcessClearingRule
+15826: ro : A apărut o eroare în handler-ul evenimentului BeforeProcessClearingRule
+15827: en : An error occurred in event handler AfterClearingRuleProcessing
+15827: ru : Ошибка в обработчике события ПослеОбработкиПравилаОчистки
+15827: vi : Lỗi trong hàm sự kiện AfterClearingRuleProcessing
+15827: ro : A apărut o eroare în handler-ul evenimentului AfterClearingRuleProcessing 
+15828: en : An error occurred in event handler BeforeDeleteObject
+15828: ru : Ошибка в обработчике события ПередУдалениемОбъекта
+15828: vi : Lỗi trong hàm sự kiện BeforeDeleteObject
+15828: ro : A apărut o eroare în handler-ul evenimentului BeforeDeleteObject
+15830: en : An error occurred in event handler BeforeProcessExportRule
+15830: ru : Ошибка в обработчике события ПередОбработкойПравилаВыгрузки
+15830: vi : Lỗi trong hàm sự kiện BeforeProcessExportRule
+15830: ro : A apărut o eroare handler-ul evenimentului BeforeProcessExportRule
+15831: en : An error occurred in event handler AfterDumpRuleProcessing
+15831: ru : Ошибка в обработчике события ПослеОбработкиПравилаВыгрузки
+15831: vi : Lỗi trong hàm sự kiện AfterDumpRuleProcessing
+15831: ro : A apărut o eroare în handler-ul evenimentului AfterDumpRuleProcessing
+15832: en : An error occurred in event handler BeforeObjectExport
+15832: ru : Ошибка в обработчике события ПередВыгрузкойОбъекта
+15832: vi : Lỗi trong hàm sự kiện BeforeObjectExport
+15832: ro : A apărut o eroare în handler-ul evenimentului BeforeObjectExport
+15833: en : An error occurred in event handler AfterObjectExport
+15833: ru : Ошибка в обработчике события ПослеВыгрузкиОбъекта
+15833: vi : Lỗi trong hàm sự kiện AfterObjectExport
+15833: ro : A apărut o eroare în handler-ul evenimentului AfterObjectExport
+15835: en : An error occurred in event handler BeforeObjectExport
+15835: ru : Ошибка в обработчике события ПередВыгрузкойОбъекта
+15835: vi : Lỗi trong hàm sự kiện BeforeObjectExport
+15835: ro : A apărut o eroare în handler-ul evenimentului BeforeObjectExport
+15836: en : An error occurred in event handler OnObjectExport
+15836: ru : Ошибка в обработчике события ПриВыгрузкеОбъекта
+15836: vi : Lỗi trong hàm sự kiện OnObjectExport
+15836: ro : A apărut o eroare în handler-ul evenimentului OnObjectExport
+15837: en : An error occurred in event handler AfterObjectExport
+15837: ru : Ошибка в обработчике события ПослеВыгрузкиОбъекта
+15837: vi : Lỗi trong hàm sự kiện AfterObjectExport
+15837: ro : A apărut o eroare în handler-ul evenimentului AfterObjectExport
+15839: en : Object conversion rule is not found
+15839: ru : Не найдено правило конвертации объектов
+15839: vi : Không tìm thấy quy tắc chuyển đổi đối tượng
+15839: ro : Regula conversiei obiectului nu a fost găsită
+15841: en : An error occurred in event handler BeforeExportProcessor of the property group
+15841: ru : Ошибка в обработчике события ПередОбработкойВыгрузки группы свойств
+15841: vi : Lỗi trong hàm sự kiện BeforeExportProcessor nhóm thuộc tính
+15841: ro : A apărut o eroare în handler-ul evenimentului BeforeExportProcessor din grupul de proprietăți
+15842: en : An error occurred in event handler AfterExportProcessor of the property group
+15842: ru : Ошибка в обработчике события ПослеОбработкиВыгрузки группы свойств
+15842: vi : Lỗi trong hàm sự kiện AfterExportProcessor nhóm thuộc tính
+15842: ro : A apărut o eroare în handler-ul evenimentului AfterExportProcessor din grupul de proprietate
+15843: en : Error in event handler BeforeExport (of collection object)
+15843: ru : Ошибка в обработчике события ПередВыгрузкой (объекта коллекции)
+15843: vi : Lỗi trong hàm sự kiện BeforeExport (đối tượng tập hợp)
+15843: ro : Eroare la handler-ul de evenimente BeforeExport (a obiectului de colectare)
+15844: en : Error in event handler OnExport (of collection object)
+15844: ru : Ошибка в обработчике события ПриВыгрузке (объекта коллекции)
+15844: vi : Lỗi trong hàm sự kiện OnExport (đối tượng tập hợp)
+15844: ro : Eroare la handler-ul de evenimente OnExport (a obiectului de colectare)
+15845: en : Error in event handler AfterExport (of collection object)
+15845: ru : Ошибка в обработчике события ПослеВыгрузки (объекта коллекции)
+15845: vi : Lỗi trong hàm sự kiện AfterExport (đối tượng tập hợp)
+15845: ro : Eroare la handler-ul de evenimente AfterExport (a obiectului de colectare)
+15846: en : An error occurred in global event handler BeforeObjectImporting (conversion)
+15846: ru : Ошибка в глобальном обработчике события ПередЗагрузкойОбъекта (конвертация)
+15846: vi : Lỗi trong hàm sự kiện toàn cục BeforeObjectImporting (chuyển đổi)
+15846: ro : A apărut o eroare în handler-ul global a evenimentului BeforeObjectImporting (conversie)
+15847: en : An error occurred in global event handler AfterObjectImport (conversion)
+15847: ru : Ошибка в глобальном обработчике события ПослеЗагрузкиОбъекта (конвертация)
+15847: vi : Lỗi trong hàm sự kiện toàn cục AfterObjectImport (chuyển đổi)
+15847: ro : A apărut o eroare în handler-ul global a evenimentului AfterObjectImport (conversie)
+15848: en : An error occurred in event handler BeforeExport (properties)
+15848: ru : Ошибка в обработчике события ПередВыгрузкой (свойства)
+15848: vi : Lỗi trong hàm sự kiện BeforeExport (thuộc tính)
+15848: ro : A apărut o eroare în handler-ul evenimentului BeforeExport (proprietăți)
+15849: en : An error occurred in event handler OnExport (properties)
+15849: ru : Ошибка в обработчике события ПриВыгрузке (свойства)
+15849: vi : Lỗi trong hàm sự kiện OnExport (thuộc tính)
+15849: ro : A apărut o eroare în handler-ul evenimentului OnExport (proprietăți)
+15850: en : An error occurred in event handler AfterExport (properties)
+15850: ru : Ошибка в обработчике события ПослеВыгрузки (свойства)
+15850: vi : Lỗi trong hàm sự kiện AfterExport (thuộc tính)
+15850: ro : A apărut o eroare în handler-ul evenimentului AfterExport (proprietăți)
+15852: en : An error occurred in event handler BeforeDataExport (conversion)
+15852: ru : Ошибка в обработчике события ПередВыгрузкойДанных (конвертация)
+15852: vi : Lỗi trong hàm sự kiện BeforeDataExport (chuyển đổi)
+15852: ro : A apărut o eroare în handler-ul evenimentului BeforeDataExport (conversie)
+15853: en : An error occurred in event handler AfterDataExport (conversion)
+15853: ru : Ошибка в обработчике события ПослеВыгрузкиДанных (конвертация)
+15853: vi : Lỗi trong hàm sự kiện AfterDataExport (chuyển đổi)
+15853: ro : A apărut o eroare în handler-ul evenimentului AfterDataExport (conversie)
+15854: en : An error occurred in global event handler BeforeObjectConversion (conversion)
+15854: ru : Ошибка в глобальном обработчике события ПередКонвертациейОбъекта (конвертация)
+15854: vi : Lỗi trong hàm sự kiện toàn cục BeforeObjectConversion (chuyển đổi)
+15854: ro : A apărut o eroare în handler-ul global a evenimentului BeforeObjectConversion (conversie)
+15855: en : An error occurred in global event handler BeforeObjectExport (conversion)
+15855: ru : Ошибка в глобальном обработчике события ПередВыгрузкойОбъекта (конвертация)
+15855: vi : Lỗi trong hàm sự kiện toàn cục BeforeObjectExport (chuyển đổi)
+15855: ro : A apărut o eroare în handler-ul global a evenimentului BeforeObjectExport (conversie)
+15856: en : An error occurred when receiving a subordinate object collection from the incoming data
+15856: ru : Ошибка получения коллекции подчиненных объектов из входящих данных
+15856: vi : Lỗi nhận tập hợp đối tượng trực thuộc từ dữ liệu đến
+15856: ro : A apărut o eroare la primirea unei colecții de obiecte subordonate din datele primite
+15857: en : An error occurred when receiving the subordinate object properties from the incoming data
+15857: ru : Ошибка получения свойства подчиненного объекта из входящих данных
+15857: vi : Lỗi nhận thuộc tính đối tượng trực thuộc từ dữ liệu đến
+15857: ro : A apărut o eroare la primirea proprietăților obiectului subordonat din datele primite
+15858: en : An error occurred when receiving the object properties from the incoming data
+15858: ru : Ошибка получения свойства объекта из входящих данных
+15858: vi : Lỗi nhận thuộc tính đối tượng từ dữ liệu đến
+15858: ro : A apărut o eroare la primirea proprietăților obiectului din datele intrate
+15860: en : An error occurred in global event handler AfterObjectExport (conversion)
+15860: ru : Ошибка в глобальном обработчике события ПослеВыгрузкиОбъекта (конвертация)
+15860: vi : Lỗi trong hàm sự kiện toàn cục AfterObjectExport (chuyển đổi)
+15860: ro : A apărut o eroare în handler-ul global a evenimentului AfterObjectExport (conversie)
+15862: en : Match for the Source value is not found
+15862: ru : Не найдено соответствие для значения Источника
+15862: vi : Không tìm thấy sự tương ứng đối với giá trị Nguồn
+15862: ro : Coincidența pentru valoarea sursă nu a fost găsită
+15864: en : An error occurred when exporting data for the exchange plan node
+15864: ru : Ошибка при выгрузке данных для узла плана обмена
+15864: vi : Lỗi khi kết xuất dữ liệu đối với nút của sơ đồ trao đổi
+15864: ro : A apărut o eroare la exportul datelor pentru nodul planului de schimb
+15866: en : An error occurred in event handler SearchFieldsSequence
+15866: ru : Ошибка в обработчике события ПоследовательностьПолейПоиска
+15866: vi : Lỗi trong hàm sự kiện SearchFieldsSequence
+15866: ro : A apărut o eroare în handler-ul evenimentului SearchFieldsSequence
+15867: en : Import exchange rules for data export again.
+15867: ru : Необходимо перезагрузить правила обмена для выгрузки данных.
+15867: vi : Cần kết nhập lại quy tắc trao đổi để kết xuất dữ liệu.
+15867: ro : Importați din nou regulile de schimb pentru exportul de date.
+15869: en : An error occurred in event handler AfterImportOfExchangeRules (conversion)
+15869: ru : Ошибка в обработчике события ПослеЗагрузкиПравилОбмена (конвертация)
+15869: vi : Lỗi trong hàm sự kiện AfterImportOfExchangeRules (chuyển đổi)
+15869: ro : A apărut o eroare la handler-ul evenimentului AfterImportOfExchangeRules (conversie)
+15870: en : An error occurred in event handler BeforeSendingUninstallInformation (conversion)
+15870: ru : Ошибка в обработчике события ПередОтправкойИнформацииОбУдалении (конвертация)
+15870: vi : Lỗi trong hàm sự kiện BeforeSendingUninstallInformation (chuyển đổi)
+15870: ro : A apărut o eroare în handler-ul evenimentului BeforeSendingUninstallInformation (conversie)
+15871: en : An error occurred in event handler OnObtainingInformationAboutDeletion (conversion)
+15871: ru : Ошибка в обработчике события ПриПолученииИнформацииОбУдалении (конвертация)
+15871: vi : Lỗi trong hàm sự kiện OnObtainingInformationAboutDeletion (chuyển đổi)
+15871: ro : A apărut o eroare în handler-ul evenimentului OnObtainingInformationAboutDeletion (conversie)
+15873: en : An error occurred when executing the algorithm after import of the parameter values
+15873: ru : Ошибка при выполнении алгоритма после загрузки значений параметров
+15873: vi : Lỗi khi thực hiện thuật toán sau khi kết nhập giá trị tham số
+15873: ro : A apărut o eroare la executarea algoritmului după importul valorilor parametrilor
+15875: en : An error occurred in event handler AfterObjectExportToFile
+15875: ru : Ошибка в обработчике события ПослеВыгрузкиОбъектаВФайл
+15875: vi : Lỗi trong hàm sự kiện AfterObjectExportToFile
+15875: ro : A apărut o eroare în handler-ul evenimentului AfterObjectExportToFile
+15885: en : An error occurred while accessing the object tabular section. The object tabular section cannot be changed.
+15885: ru : Ошибка обращения к табличной части объекта. Табличная часть объекта не может быть изменена.
+15885: vi : Lỗi truy cập đến phần bảng đối tượng. Không thể thay đổi phần bảng đối tượng.
+15885: ro : A apărut o eroare la accesarea secțiunii tabulare a obiectului. Secțiunea tabulară a obiectului nu poate fi modificată.
+15886: en : Collision of change closing dates.
+15886: ru : Коллизия дат запрета изменения.
+15886: vi : Mâu thuẫn ngày cấm thay đổi.
+15886: ro : Coliziunea datei de închidere a modificării.
+15888: en : An error of the exchange node lock occurred. Maybe, data synchronization is already in progress
+15888: ru : Ошибка блокировки узла обмена. Возможно синхронизация данных уже выполняется
+15888: vi : Lỗi phong tỏa nút trao đổi. Có thể, đã thực hiện đồng bộ hóa dữ liệu
+15888: ro : A apărut o eroare a blocării nodului de schimb. Poate că sincronizarea datelor este deja în curs
+15889: en : Exchange message was previously received
+15889: ru : Сообщение обмена было принято ранее
+15889: vi : Đã tiếp nhận thông điệp trao đổi trước đây
+15889: ro : Mesajul de schimb a fost primit anterior
+15890: en : An error occurred in event handler BeforeModifiedObjectsReceiving (conversion)
+15890: ru : Ошибка в обработчике события ПередПолучениемИзмененныхОбъектов (конвертация)
+15890: vi : Lỗi trong hàm sự kiện BeforeModifiedObjectsReceiving (chuyển đổi)
+15890: ro : A apărut o eroare în handler-ul evenimentului BeforeModifiedObjectsReceiving (conversie)
+15891: en : An error occurred in event handler AfterGettingInformationAboutExchangeNodes (conversion)
+15891: ru : Ошибка в обработчике события ПослеПолученияИнформацииОбУзлахОбмена (конвертация)
+15891: vi : Lỗi trong hàm sự kiện AfterGettingInformationAboutExchangeNodes (chuyển đổi)
+15891: ro : A apărut o eroare în handler-ul evenimentului AfterGettingInformationAboutExchangeNodes (conversie)
+15893: en : An error occurred when creating a temporary file of data export
+15893: ru : Ошибка при создании временного файла выгрузки данных
+15893: vi : Lỗi khi tạo tệp tạm thời kết xuất dữ liệu
+15893: ro : A apărut o eroare la crearea unui fișier temporar de export de date

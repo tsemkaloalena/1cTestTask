@@ -57,19 +57,19 @@ public class FunctionAnalyzer {
                 int langDelimiterIndex = initialString.indexOf(LANGUAGE_DELIMITER);
                 String langCode = initialString.substring(0, langDelimiterIndex).trim();
                 initialString = initialString.substring(langDelimiterIndex + LANGUAGE_DELIMITER.length()).trim();
-                String firstTextSymbol = initialString.substring(0, 1);
+                char firstTextSymbol = initialString.charAt(0);
                 String text;
-                if ("'".equals(firstTextSymbol) || "\"".equals(firstTextSymbol)) {
+                if ('\'' == firstTextSymbol || '\"' == firstTextSymbol) {
                     int nextQuoteIndex = 0;
 
                     while (nextQuoteIndex != initialString.length() - 1
                             && nextQuoteIndex != -1
                             && initialString.charAt(nextQuoteIndex + 1) != ';'
                     ) {
-                        nextQuoteIndex = initialString.indexOf(firstTextSymbol, firstTextSymbol.length());
+                        nextQuoteIndex = initialString.indexOf(firstTextSymbol, 1);
                     }
 
-                    text = initialString.substring(firstTextSymbol.length(), nextQuoteIndex);
+                    text = initialString.substring(1, nextQuoteIndex);
                     initialString = initialString.substring(nextQuoteIndex + 1);
                 } else {
                     text = initialString;
